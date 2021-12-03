@@ -1,0 +1,6 @@
+.directory
+RoundedScreenCorners
+*.o
+Makefile
+moc_*
+.qmake.stash
